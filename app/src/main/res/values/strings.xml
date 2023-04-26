@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikacja11_SMSy</string>
+    <string name="wy_lij">Wyślij</string>
+    <string name="odbierz">Odbierz</string>
+    <string name="tu_wy_wietli_si_odebrana_wiadomo">Tu wyświetli się odebrana wiadomość</string>
+    <string name="tre_wiadomo_ci">Treść wiadomości</string>
+    <string name="numer_telefonu">Numer telefonu</string>
+</resources>
